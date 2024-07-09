@@ -1,2 +1,2 @@
 # The-Axol-Language
-New Programming Language Open Source 
+New open source programming language
